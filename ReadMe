@@ -1,0 +1,22 @@
+Notice Board App (CRUD) 
+
+Description
+-----------
+This App was made in Java 17 and the Spring MVC Web framework with SQLite in-memory database. Dependencies are downloaded from Maven Repository.
+It allows users to easily add, delete, and update and review list of board records. 
+
+Project Build and Run
+---------------------
+After download the source, it can compile and run from either Maven Profile or SpringBootApplication, Run as Java Application from BoardingManagementWebApplication.java file. Dependencies are required to download from Maven Repository while compiling the project.
+When a web server is up, access the app through localhost:8080 by using username -> sa and password -> sa. 
+Login username and password can alter on application.properties file.
+
+
+ 
+
+
+
+
+
+
+
