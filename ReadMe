@@ -2,9 +2,9 @@ Notice Board App (CRUD)
 
 Description
 -----------
-To add, delete, and update and review list of noteboard records. 
+To add, delete, and update and review list of noticeboard records. 
 This App was made in Java 17 and the Spring MVC Web framework with SQLite in-memory database. 
-Dependencies are requied to download from Maven Repository. List of Dependencies can be found in pom.xml.
+Dependencies are required to download from Maven Repository. List of Dependencies can be found in pom.xml.
 
 Project Build and Run
 ---------------------
